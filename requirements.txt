@@ -1,0 +1,7 @@
+streamlit
+langchain>=0.1.0
+langchain_community
+huggingface_hub
+yfinance
+pandas
+requests 
