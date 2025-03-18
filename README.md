@@ -13,7 +13,7 @@ An AI-powered cryptocurrency analysis tool that compares different cryptocurrenc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/crypto_agent.git
+git clone https://github.com/Mohamedrebhi/crypto_agent.git
 cd crypto_agent
 ```
 
@@ -39,7 +39,7 @@ streamlit run crypto_agent.py
 3. Input two cryptocurrency symbols (e.g., BTC, ETH)
 4. Get instant analysis and investment recommendations
 
-## 📊 Example Cryptocurrencies
+## 📊 Supported Cryptocurrencies
 - BTC (Bitcoin)
 - ETH (Ethereum)
 - BNB (Binance Coin)
@@ -48,6 +48,13 @@ streamlit run crypto_agent.py
 - ADA (Cardano)
 - SOL (Solana)
 
+## 💻 Technologies Used
+- Python
+- Streamlit
+- Hugging Face (Mixtral-8x7B)
+- yfinance
+- LangChain
+
 ## ⚠️ Disclaimer
 This tool is for informational purposes only. Cryptocurrency investments carry high risk. Always do your own research before making investment decisions.
 
@@ -55,4 +62,11 @@ This tool is for informational purposes only. Cryptocurrency investments carry h
 MIT License
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! 
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Mohamedrebhi/crypto_agent/issues).
+
+## 👤 Author
+**Mohamed Rabhi**
+- GitHub: [@Mohamedrebhi](https://github.com/Mohamedrebhi)
+
+## ⭐️ Show your support
+Give a ⭐️ if this project helped you! 
